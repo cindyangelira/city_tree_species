@@ -1,8 +1,7 @@
 .ipynb_checkpoints
 .jupyter
 .tmp*
-.spf
-.shx
-.shp
-.dbf
-.prj
+**/*.shp
+**/*.shx
+**/*.dbf
+**/*.prj
