@@ -1,7 +1,0 @@
-.ipynb_checkpoints
-.jupyter
-.tmp*
-**/*.shp
-**/*.shx
-**/*.dbf
-**/*.prj
